@@ -1,0 +1,8 @@
+torchtext==0.2.1
+six
+future
+torch
+torchvision
+#https://download.pytorch.org/whl/torch-0.4.1-cp27-none-macosx_10_6_x86_64.whl
+#https://download.pytorch.org/whl/cu92/torchvision-0.4.1%2Bcu92-cp27-cp27m-linux_x86_64.whl
+
